@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Exercises\Array Histogram\bin\Debug\Array Histogram.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Exercises\Array Histogram\bin\Debug\Array Histogram.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Exercises\Array Histogram\bin\Debug\Array Histogram.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Exercises\Array Histogram\obj\Debug\Array Histogram.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Exercises\Array Histogram\obj\Debug\Array Histogram.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Exercises\Array Histogram\obj\Debug\Array Histogram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\User Logins\bin\Debug\User Logins.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\User Logins\bin\Debug\User Logins.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\User Logins\bin\Debug\User Logins.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\User Logins\obj\Debug\User Logins.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\User Logins\obj\Debug\User Logins.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\User Logins\obj\Debug\User Logins.pdb

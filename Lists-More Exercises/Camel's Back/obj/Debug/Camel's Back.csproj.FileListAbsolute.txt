@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Camel's Back\bin\Debug\Camel's Back.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Camel's Back\bin\Debug\Camel's Back.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Camel's Back\bin\Debug\Camel's Back.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Camel's Back\obj\Debug\Camel's Back.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Camel's Back\obj\Debug\Camel's Back.pdb

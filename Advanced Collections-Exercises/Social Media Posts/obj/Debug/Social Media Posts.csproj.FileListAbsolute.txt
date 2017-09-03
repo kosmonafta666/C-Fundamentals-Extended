@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Social Media Posts\bin\Debug\Social Media Posts.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Social Media Posts\bin\Debug\Social Media Posts.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Social Media Posts\bin\Debug\Social Media Posts.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Social Media Posts\obj\Debug\Social Media Posts.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Social Media Posts\obj\Debug\Social Media Posts.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Social Media Posts\obj\Debug\Social Media Posts.pdb

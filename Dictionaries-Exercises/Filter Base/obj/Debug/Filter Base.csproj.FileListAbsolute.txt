@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Filter Base\bin\Debug\Filter Base.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Filter Base\bin\Debug\Filter Base.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Filter Base\bin\Debug\Filter Base.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Filter Base\obj\Debug\Filter Base.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Filter Base\obj\Debug\Filter Base.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Filter Base\obj\Debug\Filter Base.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Reverse String\bin\Debug\Reverse String.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Reverse String\bin\Debug\Reverse String.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Reverse String\bin\Debug\Reverse String.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Reverse String\obj\Debug\Reverse String.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Reverse String\obj\Debug\Reverse String.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Reverse String\obj\Debug\Reverse String.pdb

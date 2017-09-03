@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Sentence Split\bin\Debug\Sentence Split.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Sentence Split\bin\Debug\Sentence Split.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Sentence Split\bin\Debug\Sentence Split.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Sentence Split\obj\Debug\Sentence Split.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Sentence Split\obj\Debug\Sentence Split.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Sentence Split\obj\Debug\Sentence Split.pdb

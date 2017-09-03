@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Boxes\bin\Debug\Boxes.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Boxes\bin\Debug\Boxes.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Boxes\bin\Debug\Boxes.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Boxes\obj\Debug\Boxes.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Boxes\obj\Debug\Boxes.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Boxes\obj\Debug\Boxes.pdb

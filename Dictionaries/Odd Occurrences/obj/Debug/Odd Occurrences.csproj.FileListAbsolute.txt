@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries\Odd Occurrences\obj\Debug\Odd Occurrences.pdb

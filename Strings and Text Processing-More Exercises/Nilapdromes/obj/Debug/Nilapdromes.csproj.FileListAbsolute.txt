@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Nilapdromes\bin\Debug\Nilapdromes.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Nilapdromes\bin\Debug\Nilapdromes.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Nilapdromes\bin\Debug\Nilapdromes.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Nilapdromes\obj\Debug\Nilapdromes.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Nilapdromes\obj\Debug\Nilapdromes.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Nilapdromes\obj\Debug\Nilapdromes.pdb

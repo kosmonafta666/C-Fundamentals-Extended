@@ -1,0 +1,5 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\JSON Parse\bin\Debug\JSON Parse.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\JSON Parse\bin\Debug\JSON Parse.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\JSON Parse\bin\Debug\JSON Parse.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\JSON Parse\obj\Debug\JSON Parse.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\JSON Parse\obj\Debug\JSON Parse.pdb

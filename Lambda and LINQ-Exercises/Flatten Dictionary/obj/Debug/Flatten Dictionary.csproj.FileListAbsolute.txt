@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Flatten Dictionary\bin\Debug\Flatten Dictionary.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Flatten Dictionary\bin\Debug\Flatten Dictionary.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Flatten Dictionary\bin\Debug\Flatten Dictionary.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Flatten Dictionary\obj\Debug\Flatten Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Flatten Dictionary\obj\Debug\Flatten Dictionary.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Flatten Dictionary\obj\Debug\Flatten Dictionary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Ballistics Training\bin\Debug\Ballistics Training.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Ballistics Training\bin\Debug\Ballistics Training.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Ballistics Training\bin\Debug\Ballistics Training.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Ballistics Training\obj\Debug\Ballistics Training.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Ballistics Training\obj\Debug\Ballistics Training.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Ballistics Training\obj\Debug\Ballistics Training.pdb

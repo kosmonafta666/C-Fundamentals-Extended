@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phonebook\obj\Debug\Phonebook.pdb

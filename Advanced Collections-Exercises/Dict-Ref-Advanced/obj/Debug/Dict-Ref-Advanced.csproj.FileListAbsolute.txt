@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.pdb

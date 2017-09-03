@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.pdb

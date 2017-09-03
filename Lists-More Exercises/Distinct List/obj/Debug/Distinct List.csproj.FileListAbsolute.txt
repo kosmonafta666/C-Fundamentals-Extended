@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Distinct List\bin\Debug\Distinct List.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Distinct List\bin\Debug\Distinct List.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Distinct List\bin\Debug\Distinct List.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Distinct List\obj\Debug\Distinct List.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Distinct List\obj\Debug\Distinct List.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Distinct List\obj\Debug\Distinct List.pdb

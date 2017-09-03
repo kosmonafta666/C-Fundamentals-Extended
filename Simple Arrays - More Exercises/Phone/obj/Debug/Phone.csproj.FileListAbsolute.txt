@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phone\bin\Debug\Phone.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phone\bin\Debug\Phone.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phone\bin\Debug\Phone.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phone\obj\Debug\Phone.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Phone\obj\Debug\Phone.pdb

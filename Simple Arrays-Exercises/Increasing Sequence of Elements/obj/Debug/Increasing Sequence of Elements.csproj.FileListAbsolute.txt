@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Increasing Sequence of Elements\bin\Debug\Increasing Sequence of Elements.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Increasing Sequence of Elements\bin\Debug\Increasing Sequence of Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Increasing Sequence of Elements\bin\Debug\Increasing Sequence of Elements.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Increasing Sequence of Elements\obj\Debug\Increasing Sequence of Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Increasing Sequence of Elements\obj\Debug\Increasing Sequence of Elements.pdb

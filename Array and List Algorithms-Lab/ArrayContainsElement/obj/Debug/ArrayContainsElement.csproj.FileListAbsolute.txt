@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\ArrayContainsElement\bin\Debug\ArrayContainsElement.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\ArrayContainsElement\obj\Debug\ArrayContainsElement.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\ArrayContainsElement\obj\Debug\ArrayContainsElement.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\ArrayContainsElement\obj\Debug\ArrayContainsElement.pdb

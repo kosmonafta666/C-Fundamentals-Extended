@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Ununion Lists\bin\Debug\Ununion Lists.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Ununion Lists\bin\Debug\Ununion Lists.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Ununion Lists\bin\Debug\Ununion Lists.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Ununion Lists\obj\Debug\Ununion Lists.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Ununion Lists\obj\Debug\Ununion Lists.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Ununion Lists\obj\Debug\Ununion Lists.pdb

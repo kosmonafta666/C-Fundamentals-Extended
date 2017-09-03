@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Pyramidic\bin\Debug\Pyramidic.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Pyramidic\bin\Debug\Pyramidic.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Pyramidic\bin\Debug\Pyramidic.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Pyramidic\obj\Debug\Pyramidic.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Pyramidic\obj\Debug\Pyramidic.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Pyramidic\obj\Debug\Pyramidic.pdb

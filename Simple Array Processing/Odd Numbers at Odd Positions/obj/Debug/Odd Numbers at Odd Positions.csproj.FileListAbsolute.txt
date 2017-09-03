@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Array Elements Equal to Their Index\bin\Debug\Array Elements Equal to Their Index.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Array Elements Equal to Their Index\bin\Debug\Array Elements Equal to Their Index.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Array Elements Equal to Their Index\bin\Debug\Array Elements Equal to Their Index.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Array Elements Equal to Their Index\obj\Debug\Array Elements Equal to Their Index.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Array Elements Equal to Their Index\obj\Debug\Array Elements Equal to Their Index.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Array Elements Equal to Their Index\obj\Debug\Array Elements Equal to Their Index.pdb

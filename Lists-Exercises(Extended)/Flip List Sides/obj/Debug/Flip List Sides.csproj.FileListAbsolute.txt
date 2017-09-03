@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Flip List Sides\bin\Debug\Flip List Sides.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Flip List Sides\bin\Debug\Flip List Sides.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Flip List Sides\bin\Debug\Flip List Sides.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Flip List Sides\obj\Debug\Flip List Sides.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Flip List Sides\obj\Debug\Flip List Sides.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Flip List Sides\obj\Debug\Flip List Sides.pdb

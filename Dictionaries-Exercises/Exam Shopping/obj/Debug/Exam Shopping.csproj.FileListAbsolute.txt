@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Exam Shopping\bin\Debug\Exam Shopping.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Exam Shopping\bin\Debug\Exam Shopping.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Exam Shopping\bin\Debug\Exam Shopping.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Exam Shopping\obj\Debug\Exam Shopping.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Exam Shopping\obj\Debug\Exam Shopping.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Exam Shopping\obj\Debug\Exam Shopping.pdb

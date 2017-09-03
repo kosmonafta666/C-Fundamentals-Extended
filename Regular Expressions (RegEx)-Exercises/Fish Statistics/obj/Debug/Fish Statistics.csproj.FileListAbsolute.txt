@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Fish Statistics\bin\Debug\Fish Statistics.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Fish Statistics\bin\Debug\Fish Statistics.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Fish Statistics\bin\Debug\Fish Statistics.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Fish Statistics\obj\Debug\Fish Statistics.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Fish Statistics\obj\Debug\Fish Statistics.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Fish Statistics\obj\Debug\Fish Statistics.pdb

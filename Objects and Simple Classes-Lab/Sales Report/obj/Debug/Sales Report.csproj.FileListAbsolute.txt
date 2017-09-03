@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Sales Report\bin\Debug\Sales Report.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Sales Report\obj\Debug\Sales Report.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Sales Report\bin\Debug\Sales Report.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Sales Report\bin\Debug\Sales Report.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Sales Report\obj\Debug\Sales Report.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Sales Report\obj\Debug\Sales Report.pdb

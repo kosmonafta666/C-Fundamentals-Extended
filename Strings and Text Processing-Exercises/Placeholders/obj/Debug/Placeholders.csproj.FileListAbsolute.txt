@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Placeholders\bin\Debug\Placeholders.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Placeholders\bin\Debug\Placeholders.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Placeholders\bin\Debug\Placeholders.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Placeholders\obj\Debug\Placeholders.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Placeholders\obj\Debug\Placeholders.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Exercises\Placeholders\obj\Debug\Placeholders.pdb

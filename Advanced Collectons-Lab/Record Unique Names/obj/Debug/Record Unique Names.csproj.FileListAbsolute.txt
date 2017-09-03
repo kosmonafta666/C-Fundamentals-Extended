@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Record Unique Names\bin\Debug\Record Unique Names.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Record Unique Names\bin\Debug\Record Unique Names.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Record Unique Names\bin\Debug\Record Unique Names.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Record Unique Names\obj\Debug\Record Unique Names.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Record Unique Names\obj\Debug\Record Unique Names.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Record Unique Names\obj\Debug\Record Unique Names.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.pdb

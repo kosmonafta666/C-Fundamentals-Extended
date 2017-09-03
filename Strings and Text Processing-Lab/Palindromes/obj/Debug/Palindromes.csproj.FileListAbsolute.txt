@@ -1,0 +1,5 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Palindromes\bin\Debug\Palindromes.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Palindromes\bin\Debug\Palindromes.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Palindromes\bin\Debug\Palindromes.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Palindromes\obj\Debug\Palindromes.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-Lab\Palindromes\obj\Debug\Palindromes.pdb

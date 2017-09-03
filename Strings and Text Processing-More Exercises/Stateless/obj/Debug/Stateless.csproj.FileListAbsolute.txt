@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Stateless\bin\Debug\Stateless.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Stateless\bin\Debug\Stateless.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Stateless\bin\Debug\Stateless.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Stateless\obj\Debug\Stateless.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Stateless\obj\Debug\Stateless.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Strings and Text Processing-More Exercises\Stateless\obj\Debug\Stateless.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Largest N Elements\bin\Debug\Largest N Elements.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Largest N Elements\bin\Debug\Largest N Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Largest N Elements\bin\Debug\Largest N Elements.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Largest N Elements\obj\Debug\Largest N Elements.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Largest N Elements\obj\Debug\Largest N Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Largest N Elements\obj\Debug\Largest N Elements.pdb

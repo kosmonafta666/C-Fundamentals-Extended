@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Word Encounter\bin\Debug\Word Encounter.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Word Encounter\bin\Debug\Word Encounter.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Word Encounter\bin\Debug\Word Encounter.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Word Encounter\obj\Debug\Word Encounter.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Word Encounter\obj\Debug\Word Encounter.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Exercises\Word Encounter\obj\Debug\Word Encounter.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Sort Array Using Bubble Sort\bin\Debug\Sort Array Using Bubble Sort.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Sort Array Using Bubble Sort\bin\Debug\Sort Array Using Bubble Sort.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Sort Array Using Bubble Sort\bin\Debug\Sort Array Using Bubble Sort.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Sort Array Using Bubble Sort\obj\Debug\Sort Array Using Bubble Sort.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Array and List Algorithms-Lab\Sort Array Using Bubble Sort\obj\Debug\Sort Array Using Bubble Sort.pdb

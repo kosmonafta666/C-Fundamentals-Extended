@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Rotate Array of Strings\bin\Debug\Rotate Array of Strings.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Rotate Array of Strings\bin\Debug\Rotate Array of Strings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Rotate Array of Strings\bin\Debug\Rotate Array of Strings.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Rotate Array of Strings\obj\Debug\Rotate Array of Strings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Rotate Array of Strings\obj\Debug\Rotate Array of Strings.pdb

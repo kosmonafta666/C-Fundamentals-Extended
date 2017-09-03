@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Shellbound\bin\Debug\Shellbound.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Shellbound\bin\Debug\Shellbound.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Shellbound\bin\Debug\Shellbound.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Shellbound\obj\Debug\Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Shellbound\obj\Debug\Shellbound.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Shellbound\obj\Debug\Shellbound.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Last 3 Consecutive Equal Strings\bin\Debug\Last 3 Consecutive Equal Strings.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Last 3 Consecutive Equal Strings\bin\Debug\Last 3 Consecutive Equal Strings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Last 3 Consecutive Equal Strings\bin\Debug\Last 3 Consecutive Equal Strings.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Last 3 Consecutive Equal Strings\obj\Debug\Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Last 3 Consecutive Equal Strings\obj\Debug\Last 3 Consecutive Equal Strings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Last 3 Consecutive Equal Strings\obj\Debug\Last 3 Consecutive Equal Strings.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Big Factorial\bin\Debug\Big Factorial.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Big Factorial\bin\Debug\Big Factorial.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Big Factorial\bin\Debug\Big Factorial.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Big Factorial\obj\Debug\Big Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Big Factorial\obj\Debug\Big Factorial.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-Lab\Big Factorial\obj\Debug\Big Factorial.pdb

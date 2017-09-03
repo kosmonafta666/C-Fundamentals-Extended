@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Note Statistics\bin\Debug\Note Statistics.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Note Statistics\bin\Debug\Note Statistics.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Note Statistics\bin\Debug\Note Statistics.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Note Statistics\obj\Debug\Note Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Note Statistics\obj\Debug\Note Statistics.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Note Statistics\obj\Debug\Note Statistics.pdb

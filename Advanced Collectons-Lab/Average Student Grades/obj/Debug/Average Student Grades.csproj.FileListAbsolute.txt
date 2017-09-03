@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Average Student Grades\bin\Debug\Average Student Grades.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Average Student Grades\bin\Debug\Average Student Grades.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Average Student Grades\bin\Debug\Average Student Grades.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Average Student Grades\obj\Debug\Average Student Grades.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Average Student Grades\obj\Debug\Average Student Grades.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Average Student Grades\obj\Debug\Average Student Grades.pdb

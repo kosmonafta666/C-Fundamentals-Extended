@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Array Elements", "Sum Array Elements\Sum Array Elements.csproj", "{DE8E914A-3220-40DD-A35B-596B203E8874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply an Array of Doubles", "Multiply an Array of Doubles\Multiply an Array of Doubles.csproj", "{3606E04B-C7A4-4A7A-BCA6-1740C4233DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Element in Array", "Smallest Element in Array\Smallest Element in Array.csproj", "{865C6FA1-4A59-4D6A-A8DE-E5FE61379D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate Array of Strings", "Rotate Array of Strings\Rotate Array of Strings.csproj", "{BF14F2D5-BD29-40E8-A650-06C19AC6889E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of Odd Numbers in Array", "Count of Odd Numbers in Array\Count of Odd Numbers in Array.csproj", "{82C187D7-4C82-4F8D-B1B1-9E4743ED1A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Numbers at Odd Positions", "Odd Numbers at Odd Positions\Odd Numbers at Odd Positions.csproj", "{5D4EE154-D762-4632-A334-BDFA8BA67DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8E914A-3220-40DD-A35B-596B203E8874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8E914A-3220-40DD-A35B-596B203E8874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8E914A-3220-40DD-A35B-596B203E8874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8E914A-3220-40DD-A35B-596B203E8874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3606E04B-C7A4-4A7A-BCA6-1740C4233DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3606E04B-C7A4-4A7A-BCA6-1740C4233DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3606E04B-C7A4-4A7A-BCA6-1740C4233DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3606E04B-C7A4-4A7A-BCA6-1740C4233DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865C6FA1-4A59-4D6A-A8DE-E5FE61379D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865C6FA1-4A59-4D6A-A8DE-E5FE61379D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865C6FA1-4A59-4D6A-A8DE-E5FE61379D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865C6FA1-4A59-4D6A-A8DE-E5FE61379D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF14F2D5-BD29-40E8-A650-06C19AC6889E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF14F2D5-BD29-40E8-A650-06C19AC6889E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF14F2D5-BD29-40E8-A650-06C19AC6889E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF14F2D5-BD29-40E8-A650-06C19AC6889E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C187D7-4C82-4F8D-B1B1-9E4743ED1A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C187D7-4C82-4F8D-B1B1-9E4743ED1A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C187D7-4C82-4F8D-B1B1-9E4743ED1A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C187D7-4C82-4F8D-B1B1-9E4743ED1A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4EE154-D762-4632-A334-BDFA8BA67DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4EE154-D762-4632-A334-BDFA8BA67DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4EE154-D762-4632-A334-BDFA8BA67DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4EE154-D762-4632-A334-BDFA8BA67DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

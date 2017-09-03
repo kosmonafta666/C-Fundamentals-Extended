@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Char Rotation\bin\Debug\Char Rotation.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Char Rotation\bin\Debug\Char Rotation.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Char Rotation\bin\Debug\Char Rotation.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Char Rotation\obj\Debug\Char Rotation.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays - More Exercises\Char Rotation\obj\Debug\Char Rotation.pdb

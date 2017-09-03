@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Altitude\bin\Debug\Altitude.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Altitude\bin\Debug\Altitude.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Altitude\bin\Debug\Altitude.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Altitude\obj\Debug\Altitude.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Altitude\obj\Debug\Altitude.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Arrays-Exercises\Altitude\obj\Debug\Altitude.pdb

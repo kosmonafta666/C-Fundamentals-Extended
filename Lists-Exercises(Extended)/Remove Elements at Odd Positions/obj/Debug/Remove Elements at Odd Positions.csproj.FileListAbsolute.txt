@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Remove Elements at Odd Positions\bin\Debug\Remove Elements at Odd Positions.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Remove Elements at Odd Positions\bin\Debug\Remove Elements at Odd Positions.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Remove Elements at Odd Positions\bin\Debug\Remove Elements at Odd Positions.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Remove Elements at Odd Positions\obj\Debug\Remove Elements at Odd Positions.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Remove Elements at Odd Positions\obj\Debug\Remove Elements at Odd Positions.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Exercises(Extended)\Remove Elements at Odd Positions\obj\Debug\Remove Elements at Odd Positions.pdb

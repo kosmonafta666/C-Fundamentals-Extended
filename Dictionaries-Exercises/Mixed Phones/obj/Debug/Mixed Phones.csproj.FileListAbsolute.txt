@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Mixed Phones\bin\Debug\Mixed Phones.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Mixed Phones\bin\Debug\Mixed Phones.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Mixed Phones\bin\Debug\Mixed Phones.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Mixed Phones\obj\Debug\Mixed Phones.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Mixed Phones\obj\Debug\Mixed Phones.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Mixed Phones\obj\Debug\Mixed Phones.pdb

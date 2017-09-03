@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Smallest Element in Array\bin\Debug\Smallest Element in Array.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Smallest Element in Array\bin\Debug\Smallest Element in Array.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Smallest Element in Array\bin\Debug\Smallest Element in Array.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Smallest Element in Array\obj\Debug\Smallest Element in Array.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Simple Array Processing\Smallest Element in Array\obj\Debug\Smallest Element in Array.pdb

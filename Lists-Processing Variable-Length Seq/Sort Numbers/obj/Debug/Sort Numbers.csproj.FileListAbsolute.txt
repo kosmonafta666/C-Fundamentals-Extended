@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Processing Variable-Length Seq\Sort Numbers\bin\Debug\Sort Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Processing Variable-Length Seq\Sort Numbers\bin\Debug\Sort Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Processing Variable-Length Seq\Sort Numbers\bin\Debug\Sort Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Processing Variable-Length Seq\Sort Numbers\obj\Debug\Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Processing Variable-Length Seq\Sort Numbers\obj\Debug\Sort Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-Processing Variable-Length Seq\Sort Numbers\obj\Debug\Sort Numbers.pdb

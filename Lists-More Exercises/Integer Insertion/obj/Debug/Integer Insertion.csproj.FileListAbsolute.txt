@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Integer Insertion\bin\Debug\Integer Insertion.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Integer Insertion\bin\Debug\Integer Insertion.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Integer Insertion\bin\Debug\Integer Insertion.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Integer Insertion\obj\Debug\Integer Insertion.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Integer Insertion\obj\Debug\Integer Insertion.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists-More Exercises\Integer Insertion\obj\Debug\Integer Insertion.pdb

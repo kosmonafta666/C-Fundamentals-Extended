@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Default Values\bin\Debug\Default Values.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Default Values\bin\Debug\Default Values.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Default Values\bin\Debug\Default Values.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Default Values\obj\Debug\Default Values.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Default Values\obj\Debug\Default Values.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ-Exercises\Default Values\obj\Debug\Default Values.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Dict-Ref\bin\Debug\Dict-Ref.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Dict-Ref\bin\Debug\Dict-Ref.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Dict-Ref\bin\Debug\Dict-Ref.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Dict-Ref\obj\Debug\Dict-Ref.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Dict-Ref\obj\Debug\Dict-Ref.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries-Exercises\Dict-Ref\obj\Debug\Dict-Ref.csprojResolveAssemblyReference.cache

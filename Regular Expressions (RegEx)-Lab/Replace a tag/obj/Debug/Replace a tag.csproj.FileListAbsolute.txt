@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Lab\Replace a tag\bin\Debug\Replace a tag.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Lab\Replace a tag\bin\Debug\Replace a tag.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Lab\Replace a tag\bin\Debug\Replace a tag.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Lab\Replace a tag\obj\Debug\Replace a tag.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Lab\Replace a tag\obj\Debug\Replace a tag.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Regular Expressions (RegEx)-Lab\Replace a tag\obj\Debug\Replace a tag.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Group Continents, Countries and Cities\bin\Debug\Group Continents, Countries and Cities.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Group Continents, Countries and Cities\bin\Debug\Group Continents, Countries and Cities.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Group Continents, Countries and Cities\bin\Debug\Group Continents, Countries and Cities.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Group Continents, Countries and Cities\obj\Debug\Group Continents, Countries and Cities.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Group Continents, Countries and Cities\obj\Debug\Group Continents, Countries and Cities.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collectons-Lab\Group Continents, Countries and Cities\obj\Debug\Group Continents, Countries and Cities.pdb

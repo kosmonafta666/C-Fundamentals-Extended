@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Forum Topics\bin\Debug\Forum Topics.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Forum Topics\obj\Debug\Forum Topics.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Forum Topics\bin\Debug\Forum Topics.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Forum Topics\bin\Debug\Forum Topics.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Forum Topics\obj\Debug\Forum Topics.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Advanced Collections-Exercises\Forum Topics\obj\Debug\Forum Topics.pdb

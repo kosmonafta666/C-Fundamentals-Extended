@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ\Short Words Sorted\bin\Debug\Short Words Sorted.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ\Short Words Sorted\bin\Debug\Short Words Sorted.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ\Short Words Sorted\bin\Debug\Short Words Sorted.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ\Short Words Sorted\obj\Debug\Short Words Sorted.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals-Extended\Lambda and LINQ\Short Words Sorted\obj\Debug\Short Words Sorted.pdb

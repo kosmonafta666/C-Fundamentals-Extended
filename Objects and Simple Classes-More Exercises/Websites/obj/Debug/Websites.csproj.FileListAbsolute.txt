@@ -1,0 +1,6 @@
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Websites\bin\Debug\Websites.exe.config
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Websites\bin\Debug\Websites.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Websites\bin\Debug\Websites.pdb
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Websites\obj\Debug\Websites.csprojResolveAssemblyReference.cache
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Websites\obj\Debug\Websites.exe
+D:\SoftUNI\Programming Fundamentals-Extended\Objects and Simple Classes-More Exercises\Websites\obj\Debug\Websites.pdb
